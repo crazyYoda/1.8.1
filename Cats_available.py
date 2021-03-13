@@ -22,5 +22,5 @@ for pet in cats:
     print(unit.gender)
     print(unit.age)
     print()
-    
+
 print('^^^^^^^^^^^^^^^')
