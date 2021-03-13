@@ -5,10 +5,10 @@ class Cat:
         self.age = age
 
     def get_name(self):
-        return self.width
+        return self.name
 
     def get_gender(self):
-        return self.height
+        return self.gender
 
     def get_age(self):
         return self.age
