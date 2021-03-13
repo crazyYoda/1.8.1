@@ -1,4 +1,4 @@
-from main import Cat
+from CatsOnline import Cat
 
 cats = [
 {
